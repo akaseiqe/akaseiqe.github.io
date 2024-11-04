@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://akaseiqe.github.io/TqW/sitemap_index.txt
+Sitemap: https://akaseiqe.github.io/qfY/sitemap_index.txt
+Sitemap: https://akaseiqe.github.io/rEN/sitemap_index.txt
+Sitemap: https://akaseiqe.github.io/rgB/sitemap_index.txt
